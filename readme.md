@@ -1,1 +1,3 @@
-# Data Mining 101 With Python
+# Notes on Data Mining
+
+## Getting Started with Data Mining

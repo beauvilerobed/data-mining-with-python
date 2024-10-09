@@ -16,3 +16,5 @@
 - The algorithm 
 - Testing the algorithm
 - The rule
+
+## 2. Classifying with scikit-learn Estimators

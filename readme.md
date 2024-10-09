@@ -1,6 +1,6 @@
 # Notes on Data Mining
 
-## Getting Started with Data Mining
+## 1. Getting Started with Data Mining
 - Introducing data mining
 - A simple affinity analysis example
 - What is affinity analysis?

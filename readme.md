@@ -30,3 +30,5 @@
 - Standard preprocessing
 - Putting it all together
 - Pipelines
+
+## 3. Predicting Sports Winners with Decision Trees

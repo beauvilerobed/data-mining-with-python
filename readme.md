@@ -18,3 +18,15 @@
 - The rule
 
 ## 2. Classifying with scikit-learn Estimators
+- scikit-learn estimators
+- Nearest neighbors
+- Distance metrics
+- Loading the dataset
+- Moving towards a standard workflow
+- Running the algorithm
+- Setting parameters
+- Preprocessing using pipelines
+- An example
+- Standard preprocessing
+- Putting it all together
+- Pipelines

@@ -32,3 +32,17 @@
 - Pipelines
 
 ## 3. Predicting Sports Winners with Decision Trees
+- Loading the dataset
+- Collecting the data
+- Cleaning up the dataset
+- Extracting new features
+- Decision trees
+- Parameters in decision trees
+- Using decision trees
+- Glossary for expanded standings
+- Extra: Model Training Using GridSearch
+- Random forests
+- How do ensembles work?
+- Parameters in Random forests
+- Applying Random forests
+- Engineering new features (a guide)

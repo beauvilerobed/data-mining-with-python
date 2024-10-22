@@ -48,3 +48,14 @@
 - Engineering new features (a guide)
 
 ## 4. Recommending Movies Using Affinity Analysis
+- Affinity analysis
+- Algorithms for affinity analysis
+- Choosing parameters
+- The movie recommendation problem
+- Obtaining the dataset
+- Sparse data formats
+- The Apriori implementation
+- The Apriori algorithm
+- Implementation
+- Extracting association rules
+- Evaluation

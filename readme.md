@@ -59,3 +59,5 @@
 - Implementation
 - Extracting association rules
 - Evaluation
+
+## 5. Extacting Features with Transformers

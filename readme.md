@@ -75,3 +75,5 @@
 - Implementation
 - Unit testing
 - Putting it all together
+
+## 6. Social Media Insight Using Naive Bayes

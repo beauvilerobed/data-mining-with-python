@@ -61,3 +61,17 @@
 - Evaluation
 
 ## 5. Extacting Features with Transformers
+- Feature extraction
+- Representing reality in models
+- Common feature patterns
+- Creating good features
+- Feature selection
+- Selecting the best individual features
+- Feature creation
+- Remove mixed data types in some columns (a simple approach)
+- Principal Component Analysis
+- Creating your own transformer
+- The transformer API
+- Implementation
+- Unit testing
+- Putting it all together

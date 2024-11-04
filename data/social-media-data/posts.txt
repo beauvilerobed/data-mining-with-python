@@ -1,0 +1,308 @@
+momomi_752
+RT @seira_923: [Python] Help with a tricky loop issue, how do you use continue to  http://t.co/H54k0nWDiN http://t.co/FydAl78nvH
+
+ikuho_379
+RT @otoka_380: Python/Flask app using apache/fastcgi producing 500 Error http://t.co/sn4d0S5aHD
+
+benignowl
+?? 이건 visual studio 에러인가 python 컴파일러로 돌리면 에러 안나고 잘 돌아가는데 vs 디버거로 돌리면 에러를 뱉어내는군
+
+GsonMathias
+Första klassens "tomte" #moron http://t.co/yMt1PZU1Cp
+
+brewokr
+Python #private #class variables that aren't class variables: When trying to access… http://t.co/4yIhHsIizx
+
+mima_tea
+“Pythonディープラーニングライブラリのツートップ「Pylearn2」「Caffe」とは～PyData Tokyo Meetup #1イベントレポート （1/3）：CodeZine” http://t.co/M5qsyZZTnD
+
+elena_casanovas
+Four Beautiful Python, R, MATLAB, and Mathematica plots with LaTeX http://t.co/8krYerBJfB via @rbloggers
+
+io_python
+@0243Kyon http://t.co/mSyeNVcahe
+
+0243Kyon
+@io_python うわぁ...
+
+BlueWaterMarket
+#Freelancer Python Restless Example by homejinni http://t.co/QRDLJxlsIM #computer via @BlueWaterMarket
+
+BlueWaterMarket
+#Freelancer Python Crawler/Indexer/Spider/Bot by meetire http://t.co/CbzQTdVXdi #computer via @BlueWaterMarket
+
+io_python
+@0243Kyon 泣けよ(ゲス顔)
+
+CashBoards
+#Freelancer #seo Python Restless Example by homejinni http://t.co/RmZQVvMlz2 @CashBoards
+
+CashBoards
+#Freelancer #seo Python Crawler/Indexer/Spider/Bot by meetire http://t.co/GWf3vHkZ30 @CashBoards
+
+pypi_updates
+SchemePy 1.1.01: R5RS scheme interpreter, supporting hygenic macros and full call/cc http://t.co/cN4bfcStmm
+
+yaakov_h
+RT @shiftkey: current status: installing the other version of python
+
+yaakov_h
+RT @shiftkey: current status: installing python
+
+artwisanggeni
+#python floraconcierge-client 0.6.7: FloraExpress API python client library. http://t.co/0TfRRqsOR8 http://t.co/Ew6FJoY9Hx
+
+artwisanggeni
+#python printNest21 1.4.0: A simple printer of nested lists http://t.co/1OPTOogruI
+
+artwisanggeni
+#python pyupp 0.1: Read and write unity player preferences data. http://t.co/SF7gUilR8x
+
+artwisanggeni
+#python musa 3.3.13: Module for music tagging and library management http://t.co/Wg2qcbMeCS
+
+Music_Reddit
+Lady - Python [Hiphop?] https://t.co/nekBNpmHvL
+
+Python_Bob123
+https://t.co/WKdTIueR9S
+
+distantcam
+RT @shiftkey: current status: installing the other version of python
+
+distantcam
+RT @shiftkey: current status: installing python
+
+kfujii
+“http://t.co/oAqSNLIRXP： Python言語によるプログラミングイントロダクション: 世界標準MIT教科書: 久保 幹雄, John V. Guttag, 麻生 敏正, 木村 泰紀, 小林 和博, 関口 良行…” http://t.co/qAmAQ0skir
+
+projectsuperior
+Top hourly 'python' htags [bm500.., #python, #cgyvsvan, #rdsch, #3dmu] 377 tweets http://t.co/l5IY5gFCyK http://t.co/CEOidrDhmv
+
+yutuki_355
+RT @yuhiro_274: Linking python as backed when using Django + Bower + Grunt http://t.co/MDMfhkRyKS
+
+1LuxuryLifeMag
+@Michael_Louis_ Python Accessories
+
+Available Now At -… http://t.co/tvgQugZZT5
+
+tgmp10
+Black Hat Python: Python Programming for Hackers and Pentesters http://t.co/qBknn5EDOX 3325 http://t.co/JpLvvwjPOz
+
+No_not_that_one
+RT @SamuelHLowe: - Excuse me, do you have snake belts?
+- Not sure, but I can check in the back.
+- Please do, my python's pants keep falling…
+
+if1live
+perl oneliner, python oneliner 등등의 언어별 oneliner중에서 가장 변태는 lisp 계열 아닐까?
+
+.....)))))))))))
+
+pypi_updates
+floraconcierge-client 0.6.7: FloraExpress API python client library. http://t.co/dXyHxnjqcK http://t.co/wo4TTGYIHx
+
+irigo56
+RT @ElBaulDeKubrick: Still Flying, un tributo a los Monty Python http://t.co/PYb9h5Gssk ¿Alguien los ha olvidado? http://t.co/TooNHtSiMm
+
+R_Programming
+Four Beautiful Python, R, MATLAB, and Mathematica plots with LaTeX http://t.co/Dgpmvoocdn #rstats
+
+ydfished
+@Bergg69 @Canada yep. Like Monty Python 'Dennis Moore' sketch. Rob the poor to give to the rich.
+
+sawa_453
+RT @urara_645: Keep This Python Cheat Sheet on Hand When Learning to Code http://t.co/R72YIj24j4 http://t.co/FtEYHLwj6H
+
+mirage_1205
+RT @mura_cin: Pythonで変数名をつけるときには予約語だけでなく組み込み関数との衝突も気を付けましょう on @Qiita http://t.co/1n5c7ut7Dl
+
+rinna_815
+RT @seira_923: [Python] Is this if-statement correct (conceptually)? http://t.co/dYy9pXaSkj http://t.co/p42JgUVIEV
+
+yuko_267
+Is there any reason I should witch to python 3 http://t.co/t17y7JI92b http://t.co/A0oxjbpOn2
+
+pypi_updates
+printNest21 1.4.0: A simple printer of nested lists http://t.co/h5iLQ3zTil
+
+yakmoose
+@shiftkey a python install for you! And a python install for you. Everyone gets a python install!
+
+sashiya_107
+RT @seino_988: Making GIFs from Video Files with Python http://t.co/xOelfi2SKU
+
+MAMI_nagisa_
+@python_octopus お疲れさまでした！これで心置きなくですか…？
+
+sinatrasapporo
+RT @kuroneko1988: ごめんなさい．ごめんなさい．やっつけです/Sinatra風マイクロフレームワークで始めるPython http://t.co/0rCghxCNGh @SlideShareさんから
+
+Python_Bob123
+https://t.co/basmBzXZNb
+
+yuno_730
+RT @seira_923: Python: Is it a good starting point? http://t.co/mvnIxwRn8V http://t.co/vTVQPN16XF
+
+python_octopus
+@halulan 蟻です！！
+
+Python_Bob123
+Fuck work.
+
+halulan
+@python_octopus 
+乙です！！
+
+WomansIndex
+Vince Camuto Women's VC/5022RGBN Leather Rosegold-Tone Date Function Brown Python Strap Watch   http://t.co/imePT9i3gx
+
+ArchUpdates
+python-rpy2 2.5.4-1 x86_64 http://t.co/oawb8APara #Archlinux
+
+ArchUpdates
+python-rpy2 2.5.4-1 i686 http://t.co/TnMRb22DI2 #Archlinux
+
+shiftkey
+current status: installing the other version of python
+
+shiftkey
+current status: installing python
+
+miyoshi_107
+Using BOTH error bars and upper/lower limits in python http://t.co/X5FyAWHikJ
+
+DoubleDownDuck
+RT @NYDailyNews: A 15-foot Burmese python was found at a Florida real estate office. http://t.co/ry0yXBZ6Ek http://t.co/1CQVQuZVjj
+
+python_octopus
+@kazunaduck おつありですうぇひひひひ！！
+
+naoka_870
+Woman Finds Python In Secondhand S-s-s-s-sofa http://t.co/hvWepmNbD6 http://t.co/r2g2xHF0kE
+
+kazunaduck
+@python_octopus お疲れさまですうぇへへへへ！！
+
+python_octopus
+@Escalator_Rider 『おつありさまっす』
+
+python_octopus
+@kobudashiOdashi あっっっっっっっっっっ！！！！！！！！
+
+Data88Geek
+RT @Python_Quest: How to add assumptions in limit in Sympy? http://t.co/um3d45PzDu http://t.co/t3TXOZrjLV #Python via @dv_geek
+
+Data88Geek
+RT @Python_Quest: Dealing with list.index(x) error in Python 3 http://t.co/0jp5moJqwh http://t.co/Ntbf0XWdt2 #Python via @dv_geek
+
+Escalator_Rider
+@python_octopus 『おつかれさまっす』
+
+python_octopus
+@mechashiorina おつありでございます！！
+
+Wiajbo__Vuuzqa
+Michael Kors Hamilton Python Embossed Leather Large Brown Mocha Tote Purse Bag - Full read by eBay: Price 339.0 USD… http://t.co/IkkhhgJrrn
+
+JimmyMcH
+Monty Python - Always Look on the Bright Side of …: http://t.co/xYHUiKxp4K
+
+kobudashiOdashi
+@python_octopus おっっっっっっっっっっっっっっっっっっっっっｔ
+
+mechashiorina
+@python_octopus おつかれさまです！！
+
+regis_alenda
+RT @GodDonut: Python *finira* par être un langage typé https://t.co/USii3gwnWa . Mais forcément, comme pour tout le reste, ça sera mal fait.
+
+python_octopus
+@mkmnsh_ おつありでございます！！
+
+shkoga
+C++ で書かれたサンプルコードを、C# と、それから F# と Python (IronPython) で書き直してみますかな。
+
+mkmnsh_
+@python_octopus おつかれさまです！
+
+brewokr
+How to protect python class variables from an evil programmer?: How can I protect my… http://t.co/n0AzC6hWWw
+
+python_jobs
+Object Initialization -- Patterns And Antipatterns - http://t.co/Pi5xu4NMkR
+
+python_octopus
+締切まで5時間半。いつもぎりぎりですなぁ。
+
+mrsergani
+Python! http://t.co/JjdDGlGba1
+
+abadahenno
+How do I convert this piece of code written in Python 3.4 into Python 2.7 (gives error with end)? http://t.co/Yn5WvjVHZD #Question
+
+Python_Quest
+Dealing with list.index(x) error in Python 3 http://t.co/0jp5moJqwh http://t.co/Ntbf0XWdt2 #Python via @dv_geek
+
+marie_cali
+Create a Freelancer/Elance type site by seekdesign http://t.co/1haUCxuI2g
+
+Python_Quest
+How to add assumptions in limit in Sympy? http://t.co/um3d45PzDu http://t.co/t3TXOZrjLV #Python via @dv_geek
+
+python_octopus
+えへへ 合同誌原稿終わった
+
+sebalinux
+I really want to thank @drchuck and @coursera for the great #python course #PR4E. A good starting point, now looking forward to learn more
+
+jvw1954
+RT @pythontrending: Bedfellows - Command-line tool for exploring the PAC donor-recipient relationship http://t.co/gZ5gFWEVTb #python
+
+natuha_306
+RT @yuhiro_274: Django, Python, and Class Variables http://t.co/LnHRC1rQQp
+
+MyNextWifey
+"Doctor, I keep thinking I'm a python. Oh you can't get round me like that, you know."
+
+jvw1954
+RT @pythontrending: eatiht - A tool for extracting article text in html documents. http://t.co/Wu2jxwHpWE #python
+
+rssnest
+24.6 10.2 http://t.co/hYAym4DQUR pyupp added to PyPI
+
+IJInformatico
+#empleo #IT A/P   PYTHON   PHP  Y   JAVA - Madrid http://t.co/2HPny4tseI
+
+LearnEnglPhuket
+rt Monty Python's Silly Walk to PHUKET LEARN GOOD ENGLISH -  http://t.co/GiZnKicQMf
+
+NuphaUtsen
+rt Monty Python's Silly Walk to PHUKET LEARN GOOD ENGLISH -  http://t.co/xH9w7LcUW9
+
+IrishCause
+rt Monty Python's Silly Walk to PHUKET LEARN GOOD ENGLISH -  http://t.co/5jDQynuWnl
+
+thedamnwells
+Let us always carry with us into each generation the legacy of Monty Python.
+
+satoe_445
+RT @kinori51: Can't input (č ć š ž đ ) in python 2.7.x console [duplicate] http://t.co/WCev9si6nK
+
+python_octopus
+ありがとうございます。
+
+pgdkg
+Python Data Visualization Cookbook http://t.co/W18vDQBzgE 1728 http://t.co/FeGqj442Gy
+
+patatostew
+monty python http://t.co/t6g9nDIlJL
+
+aussiecoley
+RT @NYDailyNews: A 15-foot Burmese python was found at a Florida real estate office. http://t.co/ry0yXBZ6Ek http://t.co/1CQVQuZVjj
+
+python_octopus
+りっ茶店は何時までですか？
+
+

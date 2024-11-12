@@ -98,3 +98,5 @@
 - Putting it all together
 - Evaluation using the F1-score
 - Getting useful features from models
+
+## Discovering Accounts to Follow Using Graph Mining

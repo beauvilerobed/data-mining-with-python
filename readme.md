@@ -77,3 +77,24 @@
 - Putting it all together
 
 ## 6. Social Media Insight Using Naive Bayes
+- Disambiguation
+- Downloading data from a social network
+- Loading and classifying the dataset
+- Loading data without the twitterAPI
+- Creating a replicable dataset from Twitter
+- Text transformers
+- Bag-of-words
+- N-grams
+- Other features (further reading)
+- Naive Bayes
+- Bayes' theorem
+- A simple example
+- Naive Bayes algorithm
+- How it works
+- Application
+- Extracting word counts
+- Converting dictionaries to a matrix
+- Training the Naive Bayes classifier
+- Putting it all together
+- Evaluation using the F1-score
+- Getting useful features from models

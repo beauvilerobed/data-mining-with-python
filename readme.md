@@ -99,4 +99,9 @@
 - Evaluation using the F1-score
 - Getting useful features from models
 
-## Discovering Accounts to Follow Using Graph Mining
+## 7. Discovering Accounts to Follow Using Graph Mining
+- Creating a graph & building the network
+- Creating a similarity graph
+- Finding subgraphs
+- Connected components
+- Optimizing criteria

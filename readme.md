@@ -105,3 +105,5 @@
 - Finding subgraphs
 - Connected components
 - Optimizing criteria
+
+## 8. Beating CAPTCHAs with Neural Networks

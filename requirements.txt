@@ -15,5 +15,5 @@ nltk==3.6.7
 networkx==2.6.3
 Pillow==8.3.2
 scikit-image==0.19.3
-PyBrain==0.3
+PyBrain @ https://github.com/pybrain/pybrain/archive/0.3.3.zip#sha256=b8181d25d05f3cec12e22e0e3f96cbb141a99ba48a34dedd929b4641a3671e6b
 

@@ -119,3 +119,5 @@
 - Possibley improving accuracy using a dictionary
 - Ranking mechanisms for words
 - Putting it all together
+
+## 9. Authorship Attribution

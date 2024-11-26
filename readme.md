@@ -107,3 +107,15 @@
 - Optimizing criteria
 
 ## 8. Beating CAPTCHAs with Neural Networks
+- Artificial neural networks
+- An introduction to neural networks
+- Creating the dataset
+- Splitting the image into individual letters
+- Creating a training dataset
+- Adjusting our training dataset to our methodology
+- Training and classifying
+- Back propagation
+- Predicting words
+- Possibley improving accuracy using a dictionary
+- Ranking mechanisms for words
+- Putting it all together

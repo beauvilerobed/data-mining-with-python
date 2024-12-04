@@ -105,3 +105,6 @@ dmypy.json
 .vscode/
 .idea/
 *.sublime-*
+
+# Others
+*.bz2

@@ -109,4 +109,4 @@ dmypy.json
 # Others
 *.bz2
 
-.author_text/*.txt
+author_texts

@@ -121,3 +121,19 @@
 - Putting it all together
 
 ## 9. Authorship Attribution
+- Authorship Attribution
+- Attributing documents to authors
+- Applications and use cases
+- Attributing authorship
+- Getting the data
+- Downloading all the files
+- Function words
+- Counting function words
+- Classifying with function words
+- Support vector machines
+- Classifying with SVMs
+- Kernels
+- Character n-grams
+- Extracting character n-grams
+
+## 10, Clustering News Articles

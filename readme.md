@@ -136,4 +136,4 @@
 - Character n-grams
 - Extracting character n-grams
 
-## 10, Clustering News Articles
+## 10. Clustering News Articles

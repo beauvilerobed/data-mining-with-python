@@ -151,3 +151,5 @@
 - Online Learning
 - An introduction to online learning
 - Implementation
+
+## 11. Classifying Objects in Images Using Deep Learning

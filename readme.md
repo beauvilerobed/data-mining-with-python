@@ -137,3 +137,17 @@
 - Extracting character n-grams
 
 ## 10. Clustering News Articles
+- Generate news articles
+- Create articles with indicators
+- Grouping news articles
+- The k-means algorithm
+- Evaluating the results
+- Extracting topic information from clusters
+- Using clustering algorithms as transformers
+- Clustering ensembles
+- Evidence accumulation
+- How it works
+- Implementation
+- Online Learning
+- An introduction to online learning
+- Implementation

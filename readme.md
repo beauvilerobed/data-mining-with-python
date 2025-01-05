@@ -153,3 +153,11 @@
 - Implementation
 
 ## 11. Classifying Objects in Images Using Deep Learning
+- Object classification
+- Application scenario and goals
+- Use cases
+- Deep neural networks
+- Intuition
+- Implementation
+- GPU optimization
+- When to use GPUs for computation

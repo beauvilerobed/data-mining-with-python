@@ -159,5 +159,6 @@
 - Deep neural networks
 - Intuition
 - Implementation
+- Building a Simple Convolutional Neural Network with Keras
 - GPU optimization
 - When to use GPUs for computation

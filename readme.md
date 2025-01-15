@@ -1,6 +1,8 @@
 # Notes on Data Mining
 
-## 1. Getting Started with Data Mining
+<details>
+<summary><b>1. Getting Started with Data Mining</b></summary>
+
 - Introducing data mining
 - A simple affinity analysis example
 - What is affinity analysis?
@@ -16,8 +18,11 @@
 - The algorithm 
 - Testing the algorithm
 - The rule
+</details>
 
-## 2. Classifying with scikit-learn Estimators
+<details>
+<summary><b>2. Classifying with scikit-learn Estimators</b></summary>
+
 - scikit-learn estimators
 - Nearest neighbors
 - Distance metrics
@@ -30,8 +35,11 @@
 - Standard preprocessing
 - Putting it all together
 - Pipelines
+</details>
 
-## 3. Predicting Sports Winners with Decision Trees
+<details>
+<summary><b>3. Predicting Sports Winners with Decision Trees</b></summary>
+
 - Loading the dataset
 - Collecting the data
 - Cleaning up the dataset
@@ -46,8 +54,11 @@
 - Parameters in Random forests
 - Applying Random forests
 - Engineering new features (a guide)
+</details>
 
-## 4. Recommending Movies Using Affinity Analysis
+<details>
+<summary><b>4. Recommending Movies Using Affinity Analysis</b></summary>
+
 - Affinity analysis
 - Algorithms for affinity analysis
 - Choosing parameters
@@ -59,8 +70,11 @@
 - Implementation
 - Extracting association rules
 - Evaluation
+</details>
 
-## 5. Extacting Features with Transformers
+<details>
+<summary><b>5. Extracting Features with Transformers</b></summary>
+
 - Feature extraction
 - Representing reality in models
 - Common feature patterns
@@ -75,12 +89,15 @@
 - Implementation
 - Unit testing
 - Putting it all together
+</details>
 
-## 6. Social Media Insight Using Naive Bayes
+<details>
+<summary><b>6. Social Media Insight Using Naive Bayes</b></summary>
+ 
 - Disambiguation
 - Downloading data from a social network
 - Loading and classifying the dataset
-- Loading data without the twitterAPI
+- Loading data without the Twitter API
 - Creating a replicable dataset from Twitter
 - Text transformers
 - Bag-of-words
@@ -98,15 +115,21 @@
 - Putting it all together
 - Evaluation using the F1-score
 - Getting useful features from models
+</details>
 
-## 7. Discovering Accounts to Follow Using Graph Mining
+<details>
+<summary><b>7. Discovering Accounts to Follow Using Graph Mining</b></summary>
+
 - Creating a graph & building the network
 - Creating a similarity graph
 - Finding subgraphs
 - Connected components
 - Optimizing criteria
+</details>
 
-## 8. Beating CAPTCHAs with Neural Networks
+<details>
+<summary><b>8. Beating CAPTCHAs with Neural Networks</b></summary>
+
 - Artificial neural networks
 - An introduction to neural networks
 - Creating the dataset
@@ -114,13 +137,16 @@
 - Creating a training dataset
 - Adjusting our training dataset to our methodology
 - Training and classifying
-- Back propagation
+- Backpropagation
 - Predicting words
-- Possibley improving accuracy using a dictionary
+- Possibly improving accuracy using a dictionary
 - Ranking mechanisms for words
 - Putting it all together
+</details>
 
-## 9. Authorship Attribution
+<details>
+<summary><b>9. Authorship Attribution</b></summary>
+
 - Authorship Attribution
 - Attributing documents to authors
 - Applications and use cases
@@ -135,8 +161,11 @@
 - Kernels
 - Character n-grams
 - Extracting character n-grams
+</details>
 
-## 10. Clustering News Articles
+<details>
+<summary><b>10. Clustering News Articles</b></summary>
+
 - Generate news articles
 - Create articles with indicators
 - Grouping news articles
@@ -151,8 +180,11 @@
 - Online Learning
 - An introduction to online learning
 - Implementation
+</details>
 
-## 11. Classifying Objects in Images Using Deep Learning
+<details>
+<summary><b>11. Classifying Objects in Images Using Deep Learning</b></summary>
+
 - Object classification
 - Application scenario and goals
 - Use cases
@@ -162,3 +194,4 @@
 - Building a Simple Convolutional Neural Network with Keras
 - GPU optimization
 - When to use GPUs for computation
+</details>
